@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "172732930935",
+    "firebase_url": "https://lifeservice-sbtc-default-rtdb.firebaseio.com",
+    "project_id": "lifeservice-sbtc",
+    "storage_bucket": "lifeservice-sbtc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172732930935:android:41de1531ccf6f045109f72",
+        "android_client_info": {
+          "package_name": "com.example.lifeservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172732930935-rh90gcicuj4ao2nuasrc5lso5jtbic33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lifeservice",
+            "certificate_hash": "f1be47e8f81e5d95fed0cf54abe18929634a8222"
+          }
+        },
+        {
+          "client_id": "172732930935-5n7tkb90kkecerp4rueug5gi27lm9puq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdjK6deSW8j9ePg-FipEGty5lM031DcGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172732930935-5n7tkb90kkecerp4rueug5gi27lm9puq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
